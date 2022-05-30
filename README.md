@@ -6,6 +6,8 @@
 ### I am sharing my projects in here. 
 ### I usually using Python programming language for Artificial intelligence. 
 
+<img src = "https://media.giphy.com/media/bJg5OW3DTWfhC/giphy.gif" align="right">
+
 
 ### Tech I use
 
@@ -38,3 +40,6 @@
 
 <img src = "https://media.giphy.com/media/8TCcIPtXc8ulZQCxEi/giphy.gif" align="right">
 
+## Always be cool dude
+
+<img src = "https://media.giphy.com/media/fCU2DZF6nc39oaxCIT/giphy.gif" align="left">
