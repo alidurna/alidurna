@@ -20,12 +20,8 @@
 ## Let's take a look at my youtube channel
 
 <!-- YOUTUBE:START -->
-- [Arm #fitness #gym #trending #trendingshorts #like #live #1#games #music #love](https://www.youtube.com/watch?v=Dg4lbXqDYE4)
-- [squat #gym #fitness #trending #like #games #rap #live](https://www.youtube.com/watch?v=qRIGIHp-6-4)
-- [#trending #trend #like #fitness #germany #live](https://www.youtube.com/watch?v=kI7x1PAUg5A)
-- [Spor #fitness #like #trending #trend #games #live](https://www.youtube.com/watch?v=ni7Fmh8WayU)
-- [Sir Selçuk #shorts #trending #like](https://www.youtube.com/watch?v=AIN7owNplxQ)
 <!-- YOUTUBE:END -->
+
 <br />
 
 ## My only purpose in life is to exercise. Exercise instead of watching idiots bro
@@ -40,4 +36,3 @@
 <img src = "https://media.giphy.com/media/fCU2DZF6nc39oaxCIT/giphy.gif" align="left">
 <img src = "https://media.giphy.com/media/m12G1Wn6c5qkE/giphy.gif" align="left">
 
-[youtube]: https://www.youtube.com/channel/UCJwB-8WYFgGWJT6bIxzAiqQ/videos
