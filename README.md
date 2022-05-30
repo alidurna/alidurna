@@ -31,14 +31,17 @@
 <br />
 
 ## My only purpose in life is to exercise. Exercise instead of watching idiots bro
+
 <img src = "https://media.giphy.com/media/t9lBEE2FGMzbY9s5IX/giphy.gif" align="right">
 
 ## O yeah broooooo
 
 <img src = "https://media.giphy.com/media/8TCcIPtXc8ulZQCxEi/giphy.gif" align="right">
 <img src = "https://media.giphy.com/media/VH8ROjXecTvsQ/giphy.gif" align="left">
+<br />
 
 ## Always be cool dude
-<img src = "https://media.giphy.com/media/fCU2DZF6nc39oaxCIT/giphy.gif" align="left">
-<img src = "https://media.giphy.com/media/m12G1Wn6c5qkE/giphy.gif" align="left">
+
+<img src = "https://media.giphy.com/media/fCU2DZF6nc39oaxCIT/giphy.gif" align="right">
+<img src = "https://media.giphy.com/media/m12G1Wn6c5qkE/giphy.gif" align="right">
 
