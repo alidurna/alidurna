@@ -15,7 +15,7 @@
 <br /><br />
 
 
-## Latest Blog posts
+## Let's take a look at my youtube channel
 
 <!-- YOUTUBE:START -->
 - [Arm #fitness #gym #trending #trendingshorts #like #live #1#games #music #love](https://www.youtube.com/watch?v=Dg4lbXqDYE4)
@@ -26,7 +26,11 @@
 <!-- YOUTUBE:END -->
 <br />
 
+
+
 [youtube]: https://www.youtube.com/channel/UCJwB-8WYFgGWJT6bIxzAiqQ
 [instagram]: https://www.instagram.com/alis.durna/
 
+## My only purpose in life is to exercise. Exercise instead of watching idiots bro
+<img src = "https://media.giphy.com/media/t9lBEE2FGMzbY9s5IX/giphy.gif" align="right">
 
