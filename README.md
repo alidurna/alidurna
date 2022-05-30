@@ -1,4 +1,4 @@
-<img src = "https://media.giphy.com/media/elIOcyMtMF4BJcWVmU/giphy.gif" align="right">
+<img src = "https://media.giphy.com/media/elIOcyMtMF4BJcWVmU/giphy.gif">
 
 ## Hi, Welcome To My Github Profile / Github depoma hoş geldin dostum.Bana bir iyilik yapta depoma bir göz at👋 👋 👋
 
@@ -6,7 +6,7 @@
 ### I am sharing my projects in here. 
 ### I usually using Python programming language for Artificial intelligence. 
 
-<img src = "https://media.giphy.com/media/bJg5OW3DTWfhC/giphy.gif" align="right">
+<img src = "https://media.giphy.com/media/bJg5OW3DTWfhC/giphy.gif">
 
 ### Tech I use
 
@@ -27,15 +27,15 @@
 
 ## My only purpose in life is to exercise. Exercise instead of watching idiots bro
 
-<img src = "https://media.giphy.com/media/t9lBEE2FGMzbY9s5IX/giphy.gif" align="right">
+<img src = "https://media.giphy.com/media/t9lBEE2FGMzbY9s5IX/giphy.gif">
 
 ## O yeah broooooo
 
-<img src = "https://media.giphy.com/media/8TCcIPtXc8ulZQCxEi/giphy.gif" align="right">
-<img src = "https://media.giphy.com/media/VH8ROjXecTvsQ/giphy.gif" align="left">
+<img src = "https://media.giphy.com/media/8TCcIPtXc8ulZQCxEi/giphy.gif">
+<img src = "https://media.giphy.com/media/VH8ROjXecTvsQ/giphy.gif">
 
 ## Always be cool dude
 
-<img src = "https://media.giphy.com/media/fCU2DZF6nc39oaxCIT/giphy.gif" align="right">
-<img src = "https://media.giphy.com/media/m12G1Wn6c5qkE/giphy.gif" align="right">
+<img src = "https://media.giphy.com/media/fCU2DZF6nc39oaxCIT/giphy.gif">
+<img src = "https://media.giphy.com/media/m12G1Wn6c5qkE/giphy.gif">
 
