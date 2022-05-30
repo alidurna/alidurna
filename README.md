@@ -6,10 +6,6 @@
 ### I am sharing my projects in here. 
 ### I usually using Python programming language for Artificial intelligence. 
 
-### Reach out to me
-
-[<img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" align="left" />]
-[<img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" align="left" />]
 
 ### Tech I use
 
@@ -29,8 +25,6 @@
 - [Sir Selçuk #shorts #trending #like](https://www.youtube.com/watch?v=AIN7owNplxQ)
 <!-- YOUTUBE:END -->
 <br />
-
-
 
 [youtube]: https://www.youtube.com/channel/UCJwB-8WYFgGWJT6bIxzAiqQ
 [instagram]: https://www.instagram.com/alis.durna/
