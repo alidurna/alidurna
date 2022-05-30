@@ -34,3 +34,7 @@
 ## My only purpose in life is to exercise. Exercise instead of watching idiots bro
 <img src = "https://media.giphy.com/media/t9lBEE2FGMzbY9s5IX/giphy.gif" align="right">
 
+## O yeah broooooo
+
+<img src = "https://media.giphy.com/media/8TCcIPtXc8ulZQCxEi/giphy.gif" align="right">
+
