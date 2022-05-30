@@ -44,5 +44,4 @@
 ## Always be cool dude
 <img src = "https://media.giphy.com/media/fCU2DZF6nc39oaxCIT/giphy.gif" align="left">
 <img src = "https://media.giphy.com/media/m12G1Wn6c5qkE/giphy.gif" align="left">
-<hr>
 
