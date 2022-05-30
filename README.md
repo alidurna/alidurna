@@ -39,7 +39,9 @@
 ## O yeah broooooo
 
 <img src = "https://media.giphy.com/media/8TCcIPtXc8ulZQCxEi/giphy.gif" align="right">
+<img src = "https://media.giphy.com/media/VH8ROjXecTvsQ/giphy.gif" align="left">
 
-## Always be cool dude
+## Always be cool dude<img src = "https://media.giphy.com/media/fCU2DZF6nc39oaxCIT/giphy.gif" align="left">
+<img src = "https://media.giphy.com/media/m12G1Wn6c5qkE/giphy.gif" align="left">
 
-<img src = "https://media.giphy.com/media/fCU2DZF6nc39oaxCIT/giphy.gif" align="left">
+
