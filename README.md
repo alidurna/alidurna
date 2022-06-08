@@ -18,11 +18,11 @@
 ## Let's take a look at my youtube channel
 
 <!-- YOUTUBE:START -->
+- [#spor #bodybuilding #trending #trend #fitness](https://www.youtube.com/watch?v=Al8sB-LlCjE)
+- [#spor #fitness #trending #trend #bodybuilding](https://www.youtube.com/watch?v=moaYzwywCXA)
 - [Logitech MK470 Wireless Siyah Klavye&lpar;Havalı Kutu Açılım Videosu&rpar;](https://www.youtube.com/watch?v=TN6bG653V1c)
 - [kol antrenmanı #fitness #trending #sports #bodybuilding](https://www.youtube.com/watch?v=EfSLmn7_Y8Y)
 - [Kol antrenmanı #fitness #trend #sports #bodybuilding](https://www.youtube.com/watch?v=Hbm3TS9PjCs)
-- [#sports #trending #fitness](https://www.youtube.com/watch?v=eWwiMrOtt0U)
-- [dambıl göğüs itiş #fitness #trending #like #sports #games #valorant #london #hardwork](https://www.youtube.com/watch?v=vRJEtaMwF-U)
 <!-- YOUTUBE:END -->
 
 ## My only purpose in life is to exercise. Exercise instead of watching idiots bro
