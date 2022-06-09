@@ -18,8 +18,8 @@
 ## Let's take a look at my youtube channel
 
 <!-- YOUTUBE:START -->
-- [#spor #bodybuilding #trending #trend #fitness](https://www.youtube.com/watch?v=Al8sB-LlCjE)
-- [#spor #fitness #trending #trend #bodybuilding](https://www.youtube.com/watch?v=moaYzwywCXA)
+- [#spor #bodybuilding #trending #trend #fitness #shorts](https://www.youtube.com/watch?v=Al8sB-LlCjE)
+- [#spor #fitness #trending #trend #bodybuilding #shorts](https://www.youtube.com/watch?v=moaYzwywCXA)
 - [Logitech MK470 Wireless Siyah Klavye&lpar;Havalı Kutu Açılım Videosu&rpar;](https://www.youtube.com/watch?v=TN6bG653V1c)
 - [kol antrenmanı #fitness #trending #sports #bodybuilding](https://www.youtube.com/watch?v=EfSLmn7_Y8Y)
 - [Kol antrenmanı #fitness #trend #sports #bodybuilding](https://www.youtube.com/watch?v=Hbm3TS9PjCs)
