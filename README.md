@@ -18,11 +18,11 @@
 ## Let's take a look at my youtube channel
 
 <!-- YOUTUBE:START -->
-- [2 Dakikada 1000şınav #trending #like #fitness #süreklidizi #funny #3](https://www.youtube.com/watch?v=PoGPsofjBRQ)
-- [SÜREKLİ DİZİ #sports  #fitness  #vucutgelistirme #park #3 #2 #1 #001 #games](https://www.youtube.com/watch?v=5tsjva8BYOs)
-- [Sürekli Dizi #süreklidizi #trending #like #türkiye #beğeni #oyun #komik](https://www.youtube.com/watch?v=fTrf_W3Us7o)
-- [Arm #fitness #gym #trending #trendingshorts #like #live #1#games #music #love](https://www.youtube.com/watch?v=Dg4lbXqDYE4)
-- [squat #gym #fitness #trending #like #games #rap #live](https://www.youtube.com/watch?v=qRIGIHp-6-4)
+- [Felsefe #trending #felsefe #trend](https://www.youtube.com/watch?v=0L1XL_5CHbQ)
+- [DambılPress #spor #bodybuilding #trending #trend #fitness #shorts #valorant #sports #vücutgeliştirme](https://www.youtube.com/watch?v=Al8sB-LlCjE)
+- [Sırt Antremanı #trending #trend #bodybuilding #shorts #like #lol #sports #fitness #vücutgeliştirme](https://www.youtube.com/watch?v=moaYzwywCXA)
+- [Logitech MK470 Wireless Siyah Klavye&lpar;Havalı Kutu Açılım Videosu&rpar;](https://www.youtube.com/watch?v=TN6bG653V1c)
+- [kol antrenmanı #fitness #trending #sports #bodybuilding](https://www.youtube.com/watch?v=EfSLmn7_Y8Y)
 <!-- YOUTUBE:END -->
 
 ## My only purpose in life is to exercise. Exercise instead of watching idiots bro
