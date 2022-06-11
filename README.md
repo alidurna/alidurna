@@ -18,11 +18,11 @@
 ## Let's take a look at my youtube channel
 
 <!-- YOUTUBE:START -->
-- [Felsefe #trending #felsefe #trend](https://www.youtube.com/watch?v=0L1XL_5CHbQ)
-- [DambılPress #spor #bodybuilding #trending #trend #fitness #shorts #valorant #sports #vücutgeliştirme](https://www.youtube.com/watch?v=Al8sB-LlCjE)
-- [Sırt Antremanı #trending #trend #bodybuilding #shorts #like #lol #sports #fitness #vücutgeliştirme](https://www.youtube.com/watch?v=moaYzwywCXA)
-- [Logitech MK470 Wireless Siyah Klavye&lpar;Havalı Kutu Açılım Videosu&rpar;](https://www.youtube.com/watch?v=TN6bG653V1c)
-- [kol antrenmanı #fitness #trending #sports #bodybuilding](https://www.youtube.com/watch?v=EfSLmn7_Y8Y)
+- [Spor 11 #like #trending #bodybuilding #fittness](https://www.youtube.com/watch?v=aBnT8X9atL0)
+- [Zeka İlacı #zeka #trending #shorts #like](https://www.youtube.com/watch?v=HDxHmwr6-8w)
+- [Spor 10 #fitness #bodybuilding #like #trending #trend #love](https://www.youtube.com/watch?v=odSNU2GCeW8)
+- [Spor 9 #fitness #trending #trend #like #love #bodybuilding](https://www.youtube.com/watch?v=qVYUFBkOAqo)
+- [Spor 8 #bodybuilding #fitness #trending #trend #like ##love](https://www.youtube.com/watch?v=WPrF6iUORP0)
 <!-- YOUTUBE:END -->
 
 ## My only purpose in life is to exercise. Exercise instead of watching idiots bro
