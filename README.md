@@ -18,11 +18,11 @@
 ## Let's take a look at my youtube channel
 
 <!-- YOUTUBE:START -->
+- [Spor 15 #gym #fitness #trending #like #bodybuilding](https://www.youtube.com/watch?v=oq8ry-JWH0o)
 - [Video 14 #trending #trend #shorts #like #bodybuilding #fitness](https://www.youtube.com/watch?v=wugFXtQsUYk)
 - [Spor 12 #trending #trend #shorts #like #bodybuilding #fitness](https://www.youtube.com/watch?v=emMwtHdw8Eg)
 - [Spor 13 #bodybuilding #fitness #trending #trend #shorts #like](https://www.youtube.com/watch?v=JdPHqPKplkM)
 - [Spor 11 #like #trending #bodybuilding #fittness](https://www.youtube.com/watch?v=aBnT8X9atL0)
-- [Zeka İlacı #zeka #trending #shorts #like](https://www.youtube.com/watch?v=HDxHmwr6-8w)
 <!-- YOUTUBE:END -->
 
 ## My only purpose in life is to exercise. Exercise instead of watching idiots bro
