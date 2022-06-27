@@ -18,11 +18,7 @@
 ## Let's take a look at my youtube channel
 
 <!-- YOUTUBE:START -->
-- [Spor 19 #fitness #bodybuilding #gym #like #shorts #trending](https://www.youtube.com/watch?v=iARc9R_xAJ8)
-- [Spor 18 #fitness #like #shorts #trending #bodybuilding #gamer #life](https://www.youtube.com/watch?v=rin732ZfhnA)
-- [Cs go #gaming #csgo #trending #shorts #like #valorant #gamer](https://www.youtube.com/watch?v=_8u0EPJz-9g)
-- [Spor 17 #like #trending #bodybuilding #fitness #shorts](https://www.youtube.com/watch?v=tHLwXgbKBpg)
-- [Spor 15 #gym #fitness #trending #like #bodybuilding](https://www.youtube.com/watch?v=oq8ry-JWH0o)
+- [chess fly #bodybuilding #like #fitness #shorts #trending](https://www.youtube.com/watch?v=I7wJHLocMkw)
 <!-- YOUTUBE:END -->
 
 ## My only purpose in life is to exercise. Exercise instead of watching idiots bro
