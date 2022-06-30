@@ -18,6 +18,8 @@
 ## Let's take a look at my youtube channel
 
 <!-- YOUTUBE:START -->
+- [Gym #bodybuilding #fitness #trending #lifestyle #life #shorts](https://www.youtube.com/watch?v=s-Ft-eBibIQ)
+- [Gym #fitness #like #shorts #trending #bodybuilding](https://www.youtube.com/watch?v=A5xqghtVS48)
 - [chess fly #bodybuilding #like #fitness #shorts #trending](https://www.youtube.com/watch?v=I7wJHLocMkw)
 <!-- YOUTUBE:END -->
 
