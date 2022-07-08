@@ -22,7 +22,7 @@
 - [Gym #bodybuilding #fitness #trending #lifestyle #life #shorts](https://www.youtube.com/watch?v=s-Ft-eBibIQ)
 - [Gym #fitness #like #shorts #trending #bodybuilding](https://www.youtube.com/watch?v=A5xqghtVS48)
 - [chess fly #bodybuilding #like #fitness #shorts #trending](https://www.youtube.com/watch?v=I7wJHLocMkw)
-- [Spor 12 #youtube #shorts #life #bodybuilding #trending #fitness #valorant](https://www.youtube.com/watch?v=emMwtHdw8Eg)
+- [Spor 18 #fitness #like #shorts #trending #bodybuilding #gamer #life](https://www.youtube.com/watch?v=rin732ZfhnA)
 <!-- YOUTUBE:END -->
 
 ## My only purpose in life is to exercise. Exercise instead of watching idiots bro
