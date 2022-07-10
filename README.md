@@ -18,11 +18,11 @@
 ## Let's take a look at my youtube channel
 
 <!-- YOUTUBE:START -->
+- [Bahçedeki canlar #shorts #trending #trend #life #national #garden](https://www.youtube.com/watch?v=atsAU3Zxnsk)
 - [barfix #shorts #trend #life #fitness #youtube #bodybuilding](https://www.youtube.com/watch?v=ytd6faYYXyM)
 - [barfix #shorts #trending #fitness #life #crossfit #youtube](https://www.youtube.com/watch?v=t1X5FSAdvk8)
 - [barfiks #3 #sports #barfiks #shorts #trending #games #like #gym #life](https://www.youtube.com/watch?v=8aqlTZRHym8)
 - [Gym #bodybuilding #fitness #trending #lifestyle #life #shorts](https://www.youtube.com/watch?v=s-Ft-eBibIQ)
-- [Gym #fitness #like #shorts #trending #bodybuilding](https://www.youtube.com/watch?v=A5xqghtVS48)
 <!-- YOUTUBE:END -->
 
 ## My only purpose in life is to exercise. Exercise instead of watching idiots bro
