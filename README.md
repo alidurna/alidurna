@@ -1,8 +1,3 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Don’t Panic!&center=true&size=30">
-  </a>
-</h1>
 <h3 align="center">I live in the country called Turkey of the planet Earth, I built my character on the values of
     chivalry. I dedicate my life to software and mathematics, I love reading books and doing research.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/wQOWdWdmwYnVS/giphy.gif">
