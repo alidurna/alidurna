@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+</div>
 <h3 align="center">I live in the country called Turkey of the planet Earth, I built my character on the values of
     chivalry. I dedicate my life to software and mathematics, I love reading books and doing research.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/wQOWdWdmwYnVS/giphy.gif">
@@ -76,10 +79,36 @@
             src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
             alt="webpack" width="40" height="40" /> </a>
 </p>
+<hr>
+<br>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
-  <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=ALDOR99&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+<br>
+
+<hr>
+<p></p>
+<h1>
+  My chess account ♟️
+</h1>
+
+<p align="center">
+  <a href="https://www.chess.com/member/quantumalis">
+    <img src="https://media.giphy.com/media/9POMmQiLkvhRzKFXyT/giphy.gif">
+  </a>
+</p>
+
+<p align="center">
+  <i>Click on the gif to add me in chess</i>
+</p>
+<hr>
+<br>
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
+<img src="https://media.giphy.com/media/581RcBdq3cV3i/giphy.gif" alt="Smiley" align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
+</div>
 <hr>
