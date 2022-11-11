@@ -80,7 +80,6 @@
             alt="webpack" width="40" height="40" /> </a>
 </p>
 <hr>
-<br>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
