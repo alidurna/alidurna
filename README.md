@@ -12,7 +12,7 @@
             src="https://img.shields.io/twitter/follow/alis_durna?logo=twitter&style=for-the-badge"
             alt="alis_durna" /></a> </p>
 
-* 🌍  I'm based in Earth
+* 🌍 No one should try to fix something that is not broken.
 * 🧠  I'm learning Python , JavaScript ..........
 - 📝 I regularly write articles on [https://medium.com/@deniz-uku](https://medium.com/@deniz-uku)
 - 📫 How to reach me **ali_drn_333@hotmail.com**
