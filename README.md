@@ -14,14 +14,13 @@
 
 * 🌍 No one should try to fix something that is not broken.
 * 🧠  I'm learning Python , JavaScript ..........
-- 📝 I regularly write articles on [https://medium.com/@deniz-uku](https://medium.com/@deniz-uku)
 - 📫 How to reach me **ali_drn_333@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left"> 
 <a href="https://open.spotify.com/playlist/5J32aqNT7jlPRdloWVo6Kr?uid=a5ba7f008a650694&uri=spotify%3Atrack%3A0AUBFe4HCHU01mKj8Wlf45" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-brands-logo-34.png" width="32" height="32" /></a>
-<a href="https://www.github.com/ALDOR99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>  <a href="https://www.twitter.com/alis_durna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+    <a href="https://www.twitter.com/alis_durna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
