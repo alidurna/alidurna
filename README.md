@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left"> 
-<a href="https://discord.com/channels/@me" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>    
+<a href="https://discord.gg/Alis.Durna#8900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alis.Durna#8900" height="30" width="40" /></a>    
 <a href="https://open.spotify.com/playlist/5J32aqNT7jlPRdloWVo6Kr?uid=a5ba7f008a650694&uri=spotify%3Atrack%3A0AUBFe4HCHU01mKj8Wlf45" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-brands-logo-34.png" width="32" height="32" /></a>
     <a href="https://www.twitter.com/alis_durna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
