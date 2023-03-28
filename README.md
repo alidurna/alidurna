@@ -19,14 +19,14 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left"> 
-<a href="https://medium.com/@quantum.alis.durna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@quantum.alis.durna" width="32" height="32" /></a>  
+<a href="https://medium.com/@quantum.alis.durna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@quantum.alis.durna" width="32" height="32" /></a> Medium  
 </p>
 <p align="left">   
-<a href="https://www.youtube.com/@alis.durna./videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@alis.durna./featured" width="32" height="32" /></a>    
+<a href="https://www.youtube.com/@alis.durna./videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@alis.durna./featured" width="32" height="32" /></a> Youtube  
 </p>
 
 <p align="left">   
-<a href="https://open.spotify.com/playlist/5J32aqNT7jlPRdloWVo6Kr?uid=a5ba7f008a650694&uri=spotify%3Atrack%3A0AUBFe4HCHU01mKj8Wlf45" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-brands-logo-34.png" width="32" height="32" /></a>
+<a href="https://open.spotify.com/playlist/5J32aqNT7jlPRdloWVo6Kr?uid=a5ba7f008a650694&uri=spotify%3Atrack%3A0AUBFe4HCHU01mKj8Wlf45" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-brands-logo-34.png" width="32" height="32" /></a> Spotify
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
