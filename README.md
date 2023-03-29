@@ -26,7 +26,7 @@
 </p>
 
 <p align="left">   
-<a href="https://open.spotify.com/playlist/5J32aqNT7jlPRdloWVo6Kr?uid=a5ba7f008a650694&uri=spotify%3Atrack%3A0AUBFe4HCHU01mKj8Wlf45" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-brands-logo-34.png" width="32" height="32" /> Spotify</a> 
+<a href="https://open.spotify.com/playlist/5VfhNAZOFKyeFGg7sRGAfJ?si=11c45a728a9b4e43" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-brands-logo-34.png" width="32" height="32" /> Spotify</a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
