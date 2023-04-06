@@ -8,10 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldor99&label=Profile%20views&color=0e75b6&style=flat"
         alt="aldor99" /> </p>
 
-<p align="left"> <a href="https://twitter.com/alis_durna" target="blank"><img
-            src="https://img.shields.io/twitter/follow/alis_durna?logo=twitter&style=for-the-badge"
-            alt="alis_durna" /></a> </p>
-
 * 🌍 No one should try to fix something that is not broken.
 * 🧠  I'm learning Python , JavaScript ..........
 - 📫 How to reach me **ali_drn_333@hotmail.com**
