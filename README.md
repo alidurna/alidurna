@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDM4Y2FjMDNjZDlmZDgyZDZlYjA3MzRiNjg0MmUwMGVlMzY3OTA4MiZjdD1n/O7PxA4XxOm6bK/giphy.gif" align="top">
 </div>
 <h3 align="center">I live in the country called Turkey of the planet Earth, I built my character on the values of
     chivalry. I dedicate my life to software and mathematics, I love reading books and doing research.</h3>
