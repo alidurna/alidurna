@@ -19,7 +19,7 @@
 <a href="https://medium.com/@quantum.alis.durna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@quantum.alis.durna" width="32" height="32" /> Medium</a>   
 </p>
 <p align="left">   
-<a href="https://www.instagram.com/alis.durna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.youtube.com/@alis.durna./featured" width="32" height="32" /> Youtube</a>
+<a href="https://www.instagram.com/alis.durna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  width="32" height="32" /> Instagram</a>
 </p>
 
 <p align="left">   
