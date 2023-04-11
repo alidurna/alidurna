@@ -1,8 +1,8 @@
 <div align="center">
   <img
     src="/07c73377-a131-48c1-bf26-c62f0411940f.gif"
-    width="500px"
-    height="500px"
+    width="500"
+    height="500"
     align="top"
   />
 </div>
@@ -26,7 +26,7 @@
 </p>
 
 - 🌍 No one should try to fix something that is not broken. - 🧠 I'm learning
-Python , JavaScript .......... * 📫 How to reach me **ali_drn_333@hotmail.com**
+  Python , JavaScript .......... \* 📫 How to reach me **ali_drn_333@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -121,9 +121,12 @@ Python , JavaScript .......... * 📫 How to reach me **ali_drn_333@hotmail.com*
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ALDOR99"
-  ><img
+
+> <img
+
     src="https://github-readme-activity-graph.cyclic.app/graph?username=ALDOR99&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
     alt="GitHub Commits Graph"
+
 /></a>
 
 <hr />
