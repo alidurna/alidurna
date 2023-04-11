@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="/07c73377-a131-48c1-bf26-c62f0411940f.gif"
+    src="/math.gif"
     width="500"
     height="500"
     align="top"
