@@ -1,11 +1,3 @@
-<div align="center">
-  <img
-    src="/math.gif"
-    width="600"
-    height="350"
-    align="top"
-  />
-</div>
 <h3 align="center">
   I live in the country called Turkey of the planet Earth, I built my character
   on the values of chivalry. I dedicate my life to software and mathematics, I
@@ -151,3 +143,20 @@
   />
 </div>
 <hr />
+
+<div align="center">
+
+  <img src="https://media.giphy.com/media/xUOwGfovSejz0WVAm4/giphy.gif"/>
+  <img src="https://media.giphy.com/media/xT9DPlhI5bVW4IBpmM/giphy.gif"/>  
+  <img src="https://media.giphy.com/media/dscKjF2CFIGmTGKnV8/giphy.gif"/>
+  <img src="https://media.giphy.com/media/C9VLSOoxiC4FYkbUxW/giphy.gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFjNWIyYWM1OWNkYjIzZDhiY2M0ZDJkNmYxMDZmYzE5MmVlZmYwNiZjdD1n/SVCSsoKU5v6ZJLk07n/giphy.gif"/>
+  <img src="https://media.giphy.com/media/3o7aD9v4MANhSuurYs/giphy.gif"/>
+  <img src="https://media.giphy.com/media/PdjklAyvkvwre/giphy.gif"/>
+  <img src="https://media.giphy.com/media/lKsHzlHKzvsnz2bUbH/giphy.gif"/>
+  <img src="https://media.giphy.com/media/6utNxL2fGvEL5tFBZr/giphy.gif"/>
+  <img src="https://media.giphy.com/media/idGw983D7CHrrXa2eO/giphy.gif"/>
+</div>
+
+
+
