@@ -2,7 +2,7 @@
   <img
     src="/math.gif"
     width="600"
-    height="400"
+    height="350"
     align="top"
   />
 </div>
