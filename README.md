@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDM4Y2FjMDNjZDlmZDgyZDZlYjA3MzRiNjg0MmUwMGVlMzY3OTA4MiZjdD1n/O7PxA4XxOm6bK/giphy.gif" align="top">
+<img src="SphericalCubes-byDVDP-Lede.gif" align="top" >
 </div>
 <h3 align="center">I live in the country called Turkey of the planet Earth, I built my character on the values of
     chivalry. I dedicate my life to software and mathematics, I love reading books and doing research.</h3>
@@ -9,9 +9,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldor99&label=Profile%20views&color=0e75b6&style=flat"
         alt="aldor99" /> </p>
 
-* 🌍 No one should try to fix something that is not broken.
-* 🧠  I'm learning Python , JavaScript ..........
-- 📫 How to reach me **ali_drn_333@hotmail.com**
+- 🌍 No one should try to fix something that is not broken.
+- 🧠 I'm learning Python , JavaScript ..........
+
+* 📫 How to reach me **ali_drn_333@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -40,6 +41,7 @@
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ALDOR99"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ALDOR99&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <hr>
 <p></p>
 <h1>
@@ -63,5 +65,3 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
 </div>
 <hr>
-
-
