@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/SphericalCubes-byDVDP-Lede.gif" align="top">
+<img src="/math.gif" align="top">
 </div>
 <h3 align="center">I live in the country called Turkey of the planet Earth, I built my character on the values of
     chivalry. I dedicate my life to software and mathematics, I love reading books and doing research.</h3>
