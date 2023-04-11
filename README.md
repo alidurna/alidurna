@@ -35,7 +35,7 @@
   >
 </p>
 <p align="left">
-  <a href="https://www.instagram.com/alis.durna" target="blank"
+  <a href="https://www.instagram.com/alis.durna/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
