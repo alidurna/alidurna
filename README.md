@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/math.gif" align="top">
+<img src="/07c73377-a131-48c1-bf26-c62f0411940f.gif" align="top">
 </div>
 <h3 align="center">I live in the country called Turkey of the planet Earth, I built my character on the values of
     chivalry. I dedicate my life to software and mathematics, I love reading books and doing research.</h3>
