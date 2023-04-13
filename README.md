@@ -1,3 +1,4 @@
+<img src="https://media.nature.com/lw767/magazine-assets/d41586-020-02717-3/d41586-020-02717-3_18408324.gif"/>
 <h3 align="center">
   I live in the country called Turkey of the planet Earth, I built my character
   on the values of chivalry. I dedicate my life to software and mathematics, I
