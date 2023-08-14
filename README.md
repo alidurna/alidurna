@@ -48,6 +48,19 @@
 </p>
 
 <p align="left">
+  <a href="https://www.youtube.com/@alis.durna./featured" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+      width="32"
+      height="32"
+    />
+    Youtube</a
+  >
+</p>
+
+
+<p align="left">
   <a
     href="https://open.spotify.com/playlist/5VfhNAZOFKyeFGg7sRGAfJ?si=11c45a728a9b4e43"
     target="_blank"
