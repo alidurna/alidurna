@@ -35,17 +35,6 @@
     Medium</a
   >
 </p>
-<p align="left">
-  <a href="https://www.instagram.com/alis.durna/" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      width="32"
-      height="32"
-    />
-    Instagram</a
-  >
-</p>
 
 <p align="left">
   <a href="https://www.youtube.com/@alis.durna./featured" target="blank"
