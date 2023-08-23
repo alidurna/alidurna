@@ -1,6 +1,6 @@
 <img src="https://media.nature.com/lw767/magazine-assets/d41586-020-02717-3/d41586-020-02717-3_18408324.gif"/>
 <h3 align="center">
-I live in the country of the planet Earth called Türkiye, I created my character.
+I live in the country of the planet Earth called Turkey , I created my character.
   on chivalry values. I have dedicated my life to software, electrical & electronics engineering,
   He likes to read books and do research.
 </h3>
