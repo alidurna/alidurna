@@ -66,6 +66,17 @@ I live in the country of the planet Earth called Turkey , I created my character
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a
+    href="https://developer.mozilla.org/en-US/docs/Web/Swift"
+    target="_blank"
+    rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg"
+      width="36"
+      height="36"
+      alt="JavaScript"
+  /></a>
+  
+  <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
     rel="noreferrer"
