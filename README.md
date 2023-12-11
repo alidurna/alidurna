@@ -37,16 +37,18 @@ I live in the country of the planet Earth called Turkey , I created my character
 </p>
 
 <p align="left">
-  <a href="https://www.youtube.com/@alis.durna./featured" target="blank"
+  <a href="https://twitter.com/alis_durna" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="https://twitter.com/alis_durna"
       width="32"
       height="32"
     />
-    Youtube</a
+    Twitter (X)</a
   >
 </p>
+
 
 
 <p align="left">
