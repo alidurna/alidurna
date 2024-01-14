@@ -1,8 +1,6 @@
 <img src="https://media.nature.com/lw767/magazine-assets/d41586-020-02717-3/d41586-020-02717-3_18408324.gif"/>
 <h3 align="center">
-I live in the country of the planet Earth called Turkey , I created my character.
-  on chivalry values. I have dedicated my life to software, electrical & electronics engineering,
-  He likes to read books and do research.
+I live in the country called Turkey on the planet Earth, and I have dedicated my life to software development and electrical engineering, embracing the values of a knight. I have a passion for reading books and conducting research.
 </h3>
 <img
   align="right"
