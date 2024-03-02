@@ -17,7 +17,7 @@ I live in the country called Turkey on the planet Earth, and I have dedicated my
 </p>
 
 - 🌍 No one should try to fix something that is not broken. - 🧠 I'm learning
-  Python , JavaScript .......... \* 📫 How to reach me **ali_drn_333@hotmail.com**
+  Python , JavaScript .......... \* 📫 How to reach me **alis.durna@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 
