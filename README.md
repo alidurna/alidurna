@@ -1,6 +1,6 @@
 <img src="https://media.nature.com/lw767/magazine-assets/d41586-020-02717-3/d41586-020-02717-3_18408324.gif"/>
 <h3 align="center">
-I live in the country called Turkey on the planet Earth, and I have dedicated my life to software development and electrical engineering, embracing the values of a knight. I have a passion for reading books and conducting research.
+I live in a country called Turkey on planet Earth, and I have devoted my life to algorithm development and electrical engineering, embracing the values of a knight. I love reading books and doing research.
 </h3>
 <img
   align="right"
