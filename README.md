@@ -22,21 +22,6 @@ I live in a country called Turkey on planet Earth, and I have devoted my life to
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://twitter.com/alis_durna" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="https://twitter.com/alis_durna"
-      width="32"
-      height="32"
-    />
-    Twitter (X)</a
-  >
-</p>
-
-
-
-<p align="left">
   <a
     href="https://open.spotify.com/playlist/5VfhNAZOFKyeFGg7sRGAfJ?si=11c45a728a9b4e43"
     target="_blank"
@@ -53,22 +38,21 @@ I live in a country called Turkey on planet Earth, and I have devoted my life to
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a
+    href="https://developer.mozilla.org/en-US/docs/Web/Java"
+    target="_blank"
+    rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
+      width="36"
+      height="36"
+      alt="JavaScript"
+  /></a>
+  <a
     href="https://developer.mozilla.org/en-US/docs/Web/Swift"
     target="_blank"
     rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg"
-      width="36"
-      height="36"
-      alt="JavaScript"
-  /></a>
-  
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
       width="36"
       height="36"
       alt="JavaScript"
@@ -80,6 +64,17 @@ I live in a country called Turkey on planet Earth, and I have devoted my life to
       height="36"
       alt="Python"
   /></a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+      width="36"
+      height="36"
+      alt="JavaScript"
+  /></a>
+  
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
