@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg" width="100%" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/800px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg" width="800px" />
   <br>
   <em>The School of Athens (1509-1511) - Raffaello Sanzio da Urbino</em>
 </div>
@@ -24,29 +24,32 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg" width="100%" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg/800px-The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg" width="400px" />
       <p align="center"><em>The Last Supper (1495-1498)<br>Leonardo da Vinci</em></p>
     </td>
     <td width="50%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Karl_Brullov_-_The_Last_Day_of_Pompeii_-_Google_Art_Project.jpg" width="100%" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Karl_Brullov_-_The_Last_Day_of_Pompeii_-_Google_Art_Project.jpg/800px-Karl_Brullov_-_The_Last_Day_of_Pompeii_-_Google_Art_Project.jpg" width="400px" />
       <p align="center"><em>The Last Day of Pompeii (1833)<br>Karl Bryullov</em></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Ecce_homo_by_Antonio_Ciseri_%281%29.jpg" width="100%" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ecce_homo_by_Antonio_Ciseri_%281%29.jpg/800px-Ecce_homo_by_Antonio_Ciseri_%281%29.jpg" width="400px" />
       <p align="center"><em>Ecce Homo (1871)<br>Antonio Ciseri</em></p>
     </td>
     <td width="50%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Martin%2C_John_-_The_Seventh_Plague_-_1823.jpg" width="100%" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Martin%2C_John_-_The_Seventh_Plague_-_1823.jpg/800px-Martin%2C_John_-_The_Seventh_Plague_-_1823.jpg" width="400px" />
       <p align="center"><em>The Seventh Plague (1823)<br>John Martin</em></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cole_Thomas_The_Course_of_Empire_Destruction_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_Destruction_1836.jpg" width="100%" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cole_Thomas_The_Course_of_Empire_Destruction_1836.jpg/800px-Cole_Thomas_The_Course_of_Empire_Destruction_1836.jpg" width="400px" />
       <p align="center"><em>The Course of Empire: Destruction (1836)<br>Thomas Cole</em></p>
     </td>
     <td width="50%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Thomas_Cole_-_Prometheus_Bound_-_Google_Art_Project.jpg" width="100%" />
-      <p
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Thomas_Cole_-_Prometheus_Bound_-_Google_Art_Project.jpg/800px-Thomas_Cole_-_Prometheus_Bound_-_Google_Art_Project.jpg" width="400px" />
+      <p align="center"><em>Prometheus Bound (1847)<br>Thomas Cole</em></p>
+    </td>
+  </tr>
+</table>
