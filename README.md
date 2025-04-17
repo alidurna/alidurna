@@ -42,14 +42,6 @@
       <p align="center"><em>The Seventh Plague (1823)<br>John Martin</em></p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cole_Thomas_The_Course_of_Empire_Destruction_1836.jpg/800px-Cole_Thomas_The_Course_of_Empire_Destruction_1836.jpg" width="400px" />
-      <p align="center"><em>The Course of Empire: Destruction (1836)<br>Thomas Cole</em></p>
-    </td>
-    <td width="50%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Thomas_Cole_-_Prometheus_Bound_-_Google_Art_Project.jpg/800px-Thomas_Cole_-_Prometheus_Bound_-_Google_Art_Project.jpg" width="400px" />
-      <p align="center"><em>Prometheus Bound (1847)<br>Thomas Cole</em></p>
-    </td>
+  
   </tr>
 </table>
