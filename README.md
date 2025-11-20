@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Ali Durna</h1>
-<h3 align="center">Algorithm Developer & Electrical Engineer</h3>
+<h3 align="center">Algorithm Developer & Electrical </h3>
 
 <p align="center">
   <a href="mailto:alis.durna@icloud.com"><img src="https://img.shields.io/badge/Email-alis.durna%40icloud.com-blue?style=flat-square&logo=gmail"></a>
