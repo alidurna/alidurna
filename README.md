@@ -74,6 +74,14 @@
       <p align="center"><em>Saint Jerome (c. 1620)<br>Anthony van Dyck</em></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/Andrea_del_Verrocchio,_Leonardo_da_Vinci_-_Baptism_of_Christ_-_Uffizi.jpg" width="400px" />
+      <p align="center"><em>The Baptism of Christ (1475-1478)<br>Andrea del Verrocchio & Leonardo da Vinci</em></p>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
   <!-- Diğerleri -->
   <tr>
     <td width="50%">
@@ -81,8 +89,16 @@
       <p align="center"><em>Mona Lisa (1503-1519)<br>Leonardo da Vinci</em></p>
     </td>
     <td width="50%">
+      <img src="assets/Da_Vinci_Vitruve_Luc_Viatour_(cropped).jpg" width="400px" />
+      <p align="center"><em>The Vitruvian Man (c. 1490)<br>Leonardo da Vinci</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <img src="assets/great-wave.jpg" width="400px" />
       <p align="center"><em>The Great Wave off Kanagawa (1831)<br>Katsushika Hokusai</em></p>
+    </td>
+    <td width="50%">
     </td>
   </tr>
   <tr>
@@ -127,3 +143,61 @@
   </tr>
 </table>
 
+<hr />
+
+<h2 align="center">Great Scientists & Thinkers</h2>
+
+<div align="center">
+  <p><em>"The important thing is not to stop questioning." - Albert Einstein</em></p>
+</div>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <img src="assets/einstein.jpg" width="400px" />
+      <p align="center"><em>Albert Einstein (1879-1955)<br>Theoretical Physicist</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/newton.jpg" width="400px" />
+      <p align="center"><em>Isaac Newton (1643-1727)<br>Physicist & Mathematician</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/darwin.jpg" width="400px" />
+      <p align="center"><em>Charles Darwin (1809-1882)<br>Naturalist & Biologist</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/galileo.jpg" width="400px" />
+      <p align="center"><em>Galileo Galilei (1564-1642)<br>Physicist & Astronomer</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/tesla.jpg" width="400px" />
+      <p align="center"><em>Nikola Tesla (1856-1943)<br>Inventor & Electrical Engineer</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/hawking.jpg" width="400px" />
+      <p align="center"><em>Stephen Hawking (1942-2018)<br>Theoretical Physicist</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/copernicus.jpg" width="400px" />
+      <p align="center"><em>Nicolaus Copernicus (1473-1543)<br>Astronomer & Mathematician</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/Marie_Curie_c1920.jpg" width="400px" />
+      <p align="center"><em>Marie Curie (1867-1934)<br>Physicist & Chemist</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/Louis_Pasteur,_foto_av_Paul_Nadar,_Crisco_edit.jpg" width="400px" />
+      <p align="center"><em>Louis Pasteur (1822-1895)<br>Chemist & Microbiologist</em></p>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
+</table>
