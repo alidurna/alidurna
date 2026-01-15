@@ -42,6 +42,24 @@
       <p align="center"><em>The Seventh Plague (1823)<br>John Martin</em></p>
     </td>
   </tr>
-  
+  <tr>
+    <td width="50%">
+      <img src="assets/creation-of-adam.jpg" width="400px" />
+      <p align="center"><em>The Creation of Adam (1512)<br>Michelangelo</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/birth-of-venus.jpg" width="400px" />
+      <p align="center"><em>The Birth of Venus (1485-1486)<br>Sandro Botticelli</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/mona-lisa.jpg" width="400px" />
+      <p align="center"><em>Mona Lisa (1503-1519)<br>Leonardo da Vinci</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/great-wave.jpg" width="400px" />
+      <p align="center"><em>The Great Wave off Kanagawa (1831)<br>Katsushika Hokusai</em></p>
+    </td>
   </tr>
 </table>
