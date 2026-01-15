@@ -62,4 +62,34 @@
       <p align="center"><em>The Great Wave off Kanagawa (1831)<br>Katsushika Hokusai</em></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/girl-with-pearl-earring.jpg" width="400px" />
+      <p align="center"><em>Girl with a Pearl Earring (1665)<br>Johannes Vermeer</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/liberty-leading-people.jpg" width="400px" />
+      <p align="center"><em>Liberty Leading the People (1830)<br>Eugène Delacroix</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/starry-night.jpg" width="400px" />
+      <p align="center"><em>The Starry Night (1889)<br>Vincent van Gogh</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/the-scream.jpg" width="400px" />
+      <p align="center"><em>The Scream (1893)<br>Edvard Munch</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/las-meninas.jpg" width="400px" />
+      <p align="center"><em>Las Meninas (1656)<br>Diego Velázquez</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/fighting-temeraire.jpg" width="400px" />
+      <p align="center"><em>The Fighting Temeraire (1839)<br>J.M.W. Turner</em></p>
+    </td>
+  </tr>
 </table>
