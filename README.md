@@ -198,6 +198,34 @@
       <p align="center"><em>Louis Pasteur (1822-1895)<br>Chemist & Microbiologist</em></p>
     </td>
     <td width="50%">
+      <img src="assets/aa.jpg" width="400px" />
+      <p align="center"><em>J. Robert Oppenheimer (1904-1967)<br>Theoretical Physicist</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/Alan_turing_header.jpg" width="400px" />
+      <p align="center"><em>Alan Turing (1912-1954)<br>Mathematician & Computer Scientist</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/Thomas_Edison2.jpg" width="400px" />
+      <p align="center"><em>Thomas Edison (1847-1931)<br>Inventor & Businessman</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/Leonhard_Euler_-_Jakob_Emanuel_Handmann_(Kunstmuseum_Basel).jpg" width="400px" />
+      <p align="center"><em>Leonhard Euler (1707-1783)<br>Mathematician & Physicist</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/Portrait_Confused_With_Johannes_Kepler_1610.jpg" width="400px" />
+      <p align="center"><em>Johannes Kepler (1571-1630)<br>Astronomer & Mathematician</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="assets/Portrait_of_Giordano_Bruno_in__Opere__Wellcome_L0015152_(cropped).jpg" width="400px" />
+      <p align="center"><em>Giordano Bruno (1548-1600)<br>Philosopher & Mathematician</em></p>
     </td>
   </tr>
 </table>
