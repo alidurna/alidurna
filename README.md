@@ -255,14 +255,29 @@
   </tr>
   <tr>
     <td width="50%">
+      <img src="assets/marcus auresilujs.jpg" width="400px" />
+      <p align="center"><em>Marcus Aurelius (121-180 AD)<br>Roman Emperor & Philosopher</em></p>
+    </td>
+    <td width="50%">
       <img src="assets/gaius-julius-caesar-100-44-v-chr-38964.jpg" width="400px" />
       <p align="center"><em>Julius Caesar (100-44 BC)<br>Roman General & Dictator</em></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <img src="assets/cengizhan.jpg" width="400px" />
       <p align="center"><em>Genghis Khan (1162-1227)<br>Founder of the Mongol Empire</em></p>
     </td>
+    <td width="50%">
+      <img src="assets/timur.jpg" width="400px" />
+      <p align="center"><em>Timur (Tamerlane) (1336-1405)<br>Turco-Mongol Conqueror</em></p>
+    </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/1280px-Hannibal_in_Italy_by_Jacopo_Ripanda_-_Sala_di_Annibale_-_Palazzo_dei_Conservatori_-_Musei_Capitolini_-_Rome_2016_(2).jpg" width="400px" />
+      <p align="center"><em>Hannibal Barca (247-183 BC)<br>Carthaginian General</em></p>
+    </td>
   <tr>
     <td width="50%">
       <img src="assets/timur.jpg" width="400px" />
