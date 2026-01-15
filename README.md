@@ -199,7 +199,7 @@
     </td>
     <td width="50%">
       <img src="assets/aa.jpg" width="400px" />
-      <p align="center"><em>J. Robert Oppenheimer (1904-1967)<br>Theoretical Physicist</em></p>
+      <p align="center"><em>Great Scientists Gathering<br>Historical Group Photo</em></p>
     </td>
   </tr>
   <tr>
@@ -223,9 +223,74 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td width="50%">
       <img src="assets/Portrait_of_Giordano_Bruno_in__Opere__Wellcome_L0015152_(cropped).jpg" width="400px" />
       <p align="center"><em>Giordano Bruno (1548-1600)<br>Philosopher & Mathematician</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/images (1).webp" width="400px" />
+      <p align="center"><em>J. Robert Oppenheimer (1904-1967)<br>Theoretical Physicist</em></p>
+    </td>
+  </tr>
+</table>
+
+<hr />
+
+<h2 align="center">Great Generals & Commanders</h2>
+
+<div align="center">
+  <p><em>"The supreme art of war is to subdue the enemy without fighting." - Sun Tzu</em></p>
+</div>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <img src="assets/Kemal_Atatürk_portrait.jpg" width="400px" />
+      <p align="center"><em>Mustafa Kemal Atatürk (1881-1938)<br>Founder of Modern Turkey</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/napolyon.jpg" width="400px" />
+      <p align="center"><em>Napoleon Bonaparte (1769-1821)<br>Emperor of France</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/gaius-julius-caesar-100-44-v-chr-38964.jpg" width="400px" />
+      <p align="center"><em>Julius Caesar (100-44 BC)<br>Roman General & Dictator</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/cengizhan.jpg" width="400px" />
+      <p align="center"><em>Genghis Khan (1162-1227)<br>Founder of the Mongol Empire</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/timur.jpg" width="400px" />
+      <p align="center"><em>Timur (Tamerlane) (1336-1405)<br>Turco-Mongol Conqueror</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/1280px-Hannibal_in_Italy_by_Jacopo_Ripanda_-_Sala_di_Annibale_-_Palazzo_dei_Conservatori_-_Musei_Capitolini_-_Rome_2016_(2).jpg" width="400px" />
+      <p align="center"><em>Hannibal Barca (247-183 BC)<br>Carthaginian General</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/Sir_Winston_Churchill_-_19086236948.jpg" width="400px" />
+      <p align="center"><em>Winston Churchill (1874-1965)<br>British Prime Minister & Statesman</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/Zhukov-LIFE-1944-1945_cropped.jpg" width="400px" />
+      <p align="center"><em>Georgy Zhukov (1896-1974)<br>Soviet Marshal</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/Helmuth_Karl_Bernhard_von_Moltke.jpg" width="400px" />
+      <p align="center"><em>Helmuth von Moltke (1800-1891)<br>Prussian Field Marshal</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/Lenin_in_1920_(cropped).jpg" width="400px" />
+      <p align="center"><em>Vladimir Lenin (1870-1924)<br>Revolutionary Leader</em></p>
     </td>
   </tr>
 </table>
