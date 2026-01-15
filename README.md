@@ -92,4 +92,34 @@
       <p align="center"><em>The Fighting Temeraire (1839)<br>J.M.W. Turner</em></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/Sacrifice_of_Isaac-Caravaggio_(Uffizi).jpg" width="400px" />
+      <p align="center"><em>The Sacrifice of Isaac (1603)<br>Caravaggio</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/Alexander_cuts_the_Gordian_Knot.jpg" width="400px" />
+      <p align="center"><em>Alexander Cuts the Gordian Knot<br>Unknown Artist</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/Carl_Bloch,_Prometheus'_Befrielse,_1864,_The_Hellenic_Ministry_of_Culture_and_Sports.jpg" width="400px" />
+      <p align="center"><em>Prometheus' Befrielse (1864)<br>Carl Bloch</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/Peter_Paul_Rubens_-_The_Fall_of_Phaeton_National_Gallery_of_Art-2.jpg" width="400px" />
+      <p align="center"><em>The Fall of Phaeton (1604-1605)<br>Peter Paul Rubens</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/saint-jerome-by-anthony-van-dyck-as-ar--65190.jpg" width="400px" />
+      <p align="center"><em>Saint Jerome (c. 1620)<br>Anthony van Dyck</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/gandolfi.jpg" width="400px" />
+      <p align="center"><em>Gandolfi<br>Unknown Work</em></p>
+    </td>
+  </tr>
 </table>
