@@ -25,21 +25,21 @@
   <!-- Antik Yunan Mitolojisi -->
   <tr>
     <td width="50%">
-      <img src="assets/birth-of-venus.jpg" width="400px" />
+      <img src="assets/birth-of-venus.jpg" width="400px" style="border: 3px solid #2d2d2d; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
       <p align="center"><em>The Birth of Venus (1485-1486)<br>Sandro Botticelli</em></p>
     </td>
     <td width="50%">
-      <img src="assets/Carl_Bloch,_Prometheus'_Befrielse,_1864,_The_Hellenic_Ministry_of_Culture_and_Sports.jpg" width="400px" />
+      <img src="assets/Carl_Bloch,_Prometheus'_Befrielse,_1864,_The_Hellenic_Ministry_of_Culture_and_Sports.jpg" width="400px" style="border: 3px solid #2d2d2d; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
       <p align="center"><em>Prometheus' Befrielse (1864)<br>Carl Bloch</em></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="assets/Peter_Paul_Rubens_-_The_Fall_of_Phaeton_National_Gallery_of_Art-2.jpg" width="400px" />
+      <img src="assets/Peter_Paul_Rubens_-_The_Fall_of_Phaeton_National_Gallery_of_Art-2.jpg" width="400px" style="border: 3px solid #2d2d2d; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
       <p align="center"><em>The Fall of Phaeton (1604-1605)<br>Peter Paul Rubens</em></p>
     </td>
     <td width="50%">
-      <img src="assets/Alexander_cuts_the_Gordian_Knot.jpg" width="400px" />
+      <img src="assets/Alexander_cuts_the_Gordian_Knot.jpg" width="400px" style="border: 3px solid #2d2d2d; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
       <p align="center"><em>Alexander Cuts the Gordian Knot<br>Unknown Artist</em></p>
     </td>
   </tr>
