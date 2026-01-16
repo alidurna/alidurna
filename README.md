@@ -309,3 +309,22 @@
     </td>
   </tr>
 </table>
+
+<hr />
+
+<h2 align="center">Great Dictators</h2>
+
+<div align="center">
+  <p><em>"Power tends to corrupt, and absolute power corrupts absolutely." - Lord Acton</em></p>
+</div>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <img src="assets/Bundesarchiv_Bild_183-H28708,_Paris,_Eiffelturm,_Besuch_Adolf_Hitler.jpg" width="400px" />
+      <p align="center"><em>Adolf Hitler (1889-1945)<br>Nazi Dictator</em></p>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
+</table>
