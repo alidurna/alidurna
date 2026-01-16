@@ -325,6 +325,18 @@
       <p align="center"><em>Adolf Hitler (1889-1945)<br>Nazi Dictator</em></p>
     </td>
     <td width="50%">
+      <img src="assets/Hitler_portrait_crop.jpg" width="400px" />
+      <p align="center"><em>Adolf Hitler (1889-1945)<br>Nazi Dictator</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/Bundesarchiv_Bild_183-S62600,_Adolf_Hitler.jpg" width="400px" />
+      <p align="center"><em>Adolf Hitler (1889-1945)<br>Nazi Dictator</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/Adolf_Hitler_photographed_with_some_Nazi_officers_on_March_20,_1945.webp.png" width="400px" />
+      <p align="center"><em>Adolf Hitler (1889-1945)<br>Nazi Dictator</em></p>
     </td>
   </tr>
 </table>
