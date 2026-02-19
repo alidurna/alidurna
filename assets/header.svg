@@ -1,0 +1,49 @@
+<svg width="600" height="120" viewBox="0 0 600 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Heart Icon (Scale and offset) -->
+  <g transform="translate(10, 10) scale(1.0)">
+    <!-- Sol Lob -->
+    <path d="M50 26L28 8L32 30Z" fill="#FF7068"/>
+    <path d="M28 8L6 28L32 30Z" fill="#FF6560"/>
+    
+    <!-- Sol Gövde -->
+    <path d="M6 28L5 52L25 50Z" fill="#FF5C55"/>
+    <path d="M6 28L32 30L25 50Z" fill="#FF6860"/>
+    <path d="M5 52L20 74L25 50Z" fill="#FF5550"/>
+    <path d="M50 26L32 30L50 55Z" fill="#FF7570"/>
+    <path d="M32 30L25 50L50 55Z" fill="#FF6D65"/>
+    
+    <!-- Sol Alt -->
+    <path d="M25 50L20 74L35 72Z" fill="#F04A42"/>
+    <path d="M25 50L50 55L35 72Z" fill="#F55048"/>
+    <path d="M20 74L50 98L35 72Z" fill="#E84038"/>
+    
+    <!-- Sağ Lob -->
+    <path d="M50 26L72 8L68 30Z" fill="#FF6055"/>
+    <path d="M72 8L94 28L68 30Z" fill="#FF5050"/>
+    
+    <!-- Sağ Gövde -->
+    <path d="M94 28L95 52L75 50Z" fill="#EE4540"/>
+    <path d="M94 28L68 30L75 50Z" fill="#F04A45"/>
+    <path d="M95 52L80 74L75 50Z" fill="#E03B35"/>
+    <path d="M50 26L68 30L50 55Z" fill="#F55550"/>
+    <path d="M68 30L75 50L50 55Z" fill="#EC4C45"/>
+    
+    <!-- Sağ Alt -->
+    <path d="M75 50L80 74L65 72Z" fill="#D83530"/>
+    <path d="M75 50L50 55L65 72Z" fill="#E04038"/>
+    <path d="M80 74L50 98L65 72Z" fill="#CC2D28"/>
+    
+    <!-- Merkez Alt -->
+    <path d="M50 55L35 72L65 72Z" fill="#E84840"/>
+    <path d="M35 72L50 98L65 72Z" fill="#DC3830"/>
+    
+    <!-- Mesh Çizgileri -->
+    <g stroke="white" stroke-width="0.5" stroke-opacity="0.2">
+      <path d="M50 26L28 8M28 8L32 30M32 30L50 26M28 8L6 28M6 28L32 30M6 28L5 52M5 52L25 50M25 50L6 28M5 52L20 74M20 74L25 50M50 26L50 55M25 50L50 55M20 74L35 72M35 72L25 50M20 74L50 98M50 98L35 72M72 8L68 30M68 30L50 26M72 8L94 28M94 28L68 30M94 28L95 52M95 52L75 50M75 50L94 28M95 52L80 74M80 74L75 50M75 50L50 55M80 74L65 72M65 72L75 50M80 74L50 98M50 98L65 72M50 55L35 72M65 72L50 55M35 72L65 72"/>
+    </g>
+  </g>
+
+  <!-- Text -->
+  <text x="120" y="55" fill="#FFFFFF" font-family="Inter, sans-serif" font-size="38" font-weight="900" letter-spacing="-0.05em">Clinical Decision</text>
+  <text x="120" y="95" fill="#FF3B30" font-family="Inter, sans-serif" font-size="38" font-weight="900" letter-spacing="-0.05em">Support System</text>
+</svg>
