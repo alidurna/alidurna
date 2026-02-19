@@ -43,7 +43,14 @@
     </g>
   </g>
 
+  <style>
+    .theme-text { fill: #000000; }
+    @media (prefers-color-scheme: dark) {
+      .theme-text { fill: #FFFFFF; }
+    }
+  </style>
+
   <!-- Text -->
-  <text x="120" y="55" fill="#FFFFFF" font-family="Inter, sans-serif" font-size="38" font-weight="900" letter-spacing="-0.05em">Clinical Decision</text>
+  <text x="120" y="55" class="theme-text" font-family="Inter, sans-serif" font-size="38" font-weight="900" letter-spacing="-0.05em">Clinical Decision</text>
   <text x="120" y="95" fill="#FF3B30" font-family="Inter, sans-serif" font-size="38" font-weight="900" letter-spacing="-0.05em">Support System</text>
 </svg>
