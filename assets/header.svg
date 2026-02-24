@@ -1,6 +1,38 @@
 <svg width="480" height="120" viewBox="0 0 480 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Soft Glow Filter for Text -->
+    <filter id="textGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComponentTransfer in="blur" result="glow">
+        <feFuncA type="linear" slope="0.4"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Deep Red Shadow for the Mesh Heart -->
+    <filter id="heartShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#FF3B30" flood-opacity="0.25" />
+    </filter>
+
+    <!-- Metallic White Gradient -->
+    <linearGradient id="glowWhite" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="50%" stop-color="#E2E8F0" />
+      <stop offset="100%" stop-color="#FFFFFF" />
+    </linearGradient>
+
+    <!-- Vibrant Red Gradient for Support System -->
+    <linearGradient id="vibrantRed" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF6B66" />
+      <stop offset="100%" stop-color="#E82218" />
+    </linearGradient>
+  </defs>
+
   <!-- Heart Icon (Scale and offset) -->
-  <g transform="translate(10, 10) scale(1.0)">
+  <g transform="translate(10, 10) scale(1.0)" filter="url(#heartShadow)">
     <!-- Sol Lob -->
     <path d="M50 26L28 8L32 30Z" fill="#FF7068"/>
     <path d="M28 8L6 28L32 30Z" fill="#FF6560"/>
@@ -44,6 +76,6 @@
   </g>
 
   <!-- Text -->
-  <text x="120" y="55" fill="#FFFFFF" font-family="Inter, sans-serif" font-size="38" font-weight="900" letter-spacing="-0.05em">Clinical Decision</text>
-  <text x="120" y="95" fill="#FF3B30" font-family="Inter, sans-serif" font-size="38" font-weight="900" letter-spacing="-0.05em">Support System</text>
+  <text x="120" y="55" fill="url(#glowWhite)" filter="url(#textGlow)" font-family="Inter, sans-serif" font-size="38" font-weight="900" letter-spacing="-0.05em">Clinical Decision</text>
+  <text x="120" y="95" fill="url(#vibrantRed)" filter="url(#textGlow)" font-family="Inter, sans-serif" font-size="38" font-weight="900" letter-spacing="-0.05em">Support System</text>
 </svg>
