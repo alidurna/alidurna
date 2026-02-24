@@ -61,6 +61,18 @@
             <feMergeNode in="SourceGraphic" />
         </feMerge>
     </filter>
+
+    <!-- Ultra Glow Filter for the Heart -->
+    <filter id="ultraGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feFlood flood-color="#ff0000" flood-opacity="0.3" result="color" />
+      <feComposite in="color" in2="blur" operator="in" result="glow" />
+      <feMerge>
+        <feMergeNode in="glow" />
+        <feMergeNode in="glow" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
   </defs>
 
   <!-- Premium Dark Background (Sharp corners to match header copy.svg) -->
@@ -99,7 +111,7 @@
   <!-- Centered and Upscaled Content -->
   <g transform="translate(168, 267) scale(1.8)">
   <!-- Heart Icon (Scale and offset) -->
-  <g transform="translate(10, 10)" filter="url(#heartShadow)">
+  <g transform="translate(10, 10)">
     <g style="transform-origin: 50px 50px;">
       <animateTransform 
         attributeName="transform" 
@@ -109,46 +121,78 @@
         dur="1.2s" 
         repeatCount="indefinite" 
       />
-    <!-- Sol Lob -->
-    <path d="M50 26L28 8L32 30Z" fill="#FF7068"/>
-    <path d="M28 8L6 28L32 30Z" fill="#FF6560"/>
-    
-    <!-- Sol Gövde -->
-    <path d="M6 28L5 52L25 50Z" fill="#FF5C55"/>
-    <path d="M6 28L32 30L25 50Z" fill="#FF6860"/>
-    <path d="M5 52L20 74L25 50Z" fill="#FF5550"/>
-    <path d="M50 26L32 30L50 55Z" fill="#FF7570"/>
-    <path d="M32 30L25 50L50 55Z" fill="#FF6D65"/>
-    
-    <!-- Sol Alt -->
-    <path d="M25 50L20 74L35 72Z" fill="#F04A42"/>
-    <path d="M25 50L50 55L35 72Z" fill="#F55048"/>
-    <path d="M20 74L50 98L35 72Z" fill="#E84038"/>
-    
-    <!-- Sağ Lob -->
-    <path d="M50 26L72 8L68 30Z" fill="#FF6055"/>
-    <path d="M72 8L94 28L68 30Z" fill="#FF5050"/>
-    
-    <!-- Sağ Gövde -->
-    <path d="M94 28L95 52L75 50Z" fill="#EE4540"/>
-    <path d="M94 28L68 30L75 50Z" fill="#F04A45"/>
-    <path d="M95 52L80 74L75 50Z" fill="#E03B35"/>
-    <path d="M50 26L68 30L50 55Z" fill="#F55550"/>
-    <path d="M68 30L75 50L50 55Z" fill="#EC4C45"/>
-    
-    <!-- Sağ Alt -->
-    <path d="M75 50L80 74L65 72Z" fill="#D83530"/>
-    <path d="M75 50L50 55L65 72Z" fill="#E04038"/>
-    <path d="M80 74L50 98L65 72Z" fill="#CC2D28"/>
-    
-    <!-- Merkez Alt -->
-    <path d="M50 55L35 72L65 72Z" fill="#E84840"/>
-    <path d="M35 72L50 98L65 72Z" fill="#DC3830"/>
-    
-    <!-- Mesh Çizgileri -->
-    <g stroke="white" stroke-width="0.5" stroke-opacity="0.2">
-      <path d="M50 26L28 8M28 8L32 30M32 30L50 26M28 8L6 28M6 28L32 30M6 28L5 52M5 52L25 50M25 50L6 28M5 52L20 74M20 74L25 50M50 26L50 55M25 50L50 55M20 74L35 72M35 72L25 50M20 74L50 98M50 98L35 72M72 8L68 30M68 30L50 26M72 8L94 28M94 28L68 30M94 28L95 52M95 52L75 50M75 50L94 28M95 52L80 74M80 74L75 50M75 50L50 55M80 74L65 72M65 72L75 50M80 74L50 98M50 98L65 72M50 55L35 72M65 72L50 55M35 72L65 72"/>
-    </g>
+      <!-- Solid heart with intense glow -->
+      <g filter="url(#ultraGlow)">
+        <path d="M50 26 L28 8 L32 30 Z" fill="#FF1A1A" />
+        <path d="M28 8 L6 28 L32 30 Z" fill="#E60000" />
+        <path d="M6 28 L5 52 L25 50 Z" fill="#CC0000" />
+        <path d="M6 28 L32 30 L25 50 Z" fill="#FF3333" />
+        <path d="M5 52 L20 74 L25 50 Z" fill="#B30000" />
+        <path d="M50 26 L32 30 L50 55 Z" fill="#FF4D4D" />
+        <path d="M32 30 L25 50 L50 55 Z" fill="#FF1A1A" />
+        <path d="M25 50 L20 74 L35 72 Z" fill="#990000" />
+        <path d="M25 50 L50 55 L35 72 Z" fill="#BF0000" />
+        <path d="M20 74 L50 98 L35 72 Z" fill="#800000" />
+        <path d="M50 26 L72 8 L68 30 Z" fill="#FF3333" />
+        <path d="M72 8 L94 28 L68 30 Z" fill="#CC0000" />
+        <path d="M94 28 L95 52 L75 50 Z" fill="#B30000" />
+        <path d="M94 28 L68 30 L75 50 Z" fill="#CC0000" />
+        <path d="M95 52 L80 74 L75 50 Z" fill="#990000" />
+        <path d="M50 26 L68 30 L50 55 Z" fill="#FF1A1A" />
+        <path d="M68 30 L75 50 L50 55 Z" fill="#E60000" />
+        <path d="M75 50 L80 74 L65 72 Z" fill="#800000" />
+        <path d="M75 50 L50 55 L65 72 Z" fill="#990000" />
+        <path d="M80 74 L50 98 L65 72 Z" fill="#660000" />
+        <path d="M50 55 L35 72 L65 72 Z" fill="#A60000" />
+        <path d="M35 72 L50 98 L65 72 Z" fill="#4D0000" />
+      </g>
+
+      <!-- Crisp white strokes over the solid facets -->
+      <g stroke="white" stroke-opacity="0.25" stroke-width="0.2" fill="none">
+        <path d="M50 26 L28 8 L32 30 Z" />
+        <path d="M28 8 L6 28 L32 30 Z" />
+        <path d="M6 28 L5 52 L25 50 Z" />
+        <path d="M6 28 L32 30 L25 50 Z" />
+        <path d="M5 52 L20 74 L25 50 Z" />
+        <path d="M50 26 L32 30 L50 55 Z" />
+        <path d="M32 30 L25 50 L50 55 Z" />
+        <path d="M25 50 L20 74 L35 72 Z" />
+        <path d="M25 50 L50 55 L35 72 Z" />
+        <path d="M20 74 L50 98 L35 72 Z" />
+        <path d="M50 26 L72 8 L68 30 Z" />
+        <path d="M72 8 L94 28 L68 30 Z" />
+        <path d="M94 28 L95 52 L75 50 Z" />
+        <path d="M94 28 L68 30 L75 50 Z" />
+        <path d="M95 52 L80 74 L75 50 Z" />
+        <path d="M50 26 L68 30 L50 55 Z" />
+        <path d="M68 30 L75 50 L50 55 Z" />
+        <path d="M75 50 L80 74 L65 72 Z" />
+        <path d="M75 50 L50 55 L65 72 Z" />
+        <path d="M80 74 L50 98 L65 72 Z" />
+        <path d="M50 55 L35 72 L65 72 Z" />
+        <path d="M35 72 L50 98 L65 72 Z" />
+      </g>
+
+      <!-- White vertex dots -->
+      <g fill="white" fill-opacity="0.8">
+        <circle cx="50" cy="26" r="0.6" />
+        <circle cx="28" cy="8" r="0.6" />
+        <circle cx="6" cy="28" r="0.6" />
+        <circle cx="5" cy="52" r="0.6" />
+        <circle cx="20" cy="74" r="0.6" />
+        <circle cx="50" cy="98" r="0.6" />
+        <circle cx="80" cy="74" r="0.6" />
+        <circle cx="95" cy="52" r="0.6" />
+        <circle cx="94" cy="28" r="0.6" />
+        <circle cx="72" cy="8" r="0.6" />
+        <circle cx="32" cy="30" r="0.6" />
+        <circle cx="68" cy="30" r="0.6" />
+        <circle cx="25" cy="50" r="0.6" />
+        <circle cx="75" cy="50" r="0.6" />
+        <circle cx="50" cy="55" r="0.6" />
+        <circle cx="35" cy="72" r="0.6" />
+        <circle cx="65" cy="72" r="0.6" />
+      </g>
     </g>
   </g>
 
